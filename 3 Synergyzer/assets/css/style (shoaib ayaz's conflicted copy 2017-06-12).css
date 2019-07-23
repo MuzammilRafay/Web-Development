@@ -1,0 +1,244 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	color: #CCC;
+	background: #080516;
+}
+#page-wrap {
+	width: 999px;
+	margin: 0 auto;
+}
+#header {
+	height: 180px;
+}
+#logo {
+	padding-top: 68px;
+	margin-bottom: 10px;
+}
+#top-nav ul li {
+	float: left;
+	margin-right: 20px;
+}
+#top-nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+#top-nav ul li a:hover {
+	color: #d71402;
+}
+#main-content {
+	margin-bottom: 378px;
+}
+#left-content {
+	float: left;
+	width: 665px;
+}
+.page-info h1 {
+	color: #d81300;
+	font-size: 56px;
+	margin-top: 46px;
+	margin-bottom: 10px;
+}
+.page-info p {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom:10px;
+}
+.poster ul li {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#sidebar {
+	float: right;
+	width: 311px;
+}
+.sneak-preview {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.ads {
+	margin-bottom: 10px;
+}
+.ads-1 {
+	width: 151px;
+	float: left;
+}
+.ads-2 {
+	width: 151px;
+	float: right;
+}
+#footer p {
+	text-align: justify;
+}
+#footer-col-one {
+	width: 324px;
+	float: left;
+	margin-right: 20px;
+}
+#footer-col-two {
+	width: 318px;
+	float: left;
+	margin-right: 23px;
+}
+#footer-col-three {
+	width: 311px;
+	float: right;
+}
+.footer-info h2 {
+	font-size: 18px;
+	margin-bottom: 20px;
+	color: #FFF;
+}
+.footer-info h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+	color: #d71400;
+}
+.footer-info p {
+	color: #FFF;
+	margin-bottom: 20px;
+	line-height: 20px;
+}
+.footer-info a {
+	color: #d74100;
+	font-size: 18px;
+	text-decoration: none;
+}
+.footer-info .date-time {
+	color: #90918c;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.footer-nav ul li {
+	margin-bottom: 10px;
+}
+.footer-nav ul li a {
+	text-transform: capitalize;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+.footer-nav ul li a:hover {
+	color: #d74100;
+}
+.copyright {
+	color: #757479;
+	font-size: 12px;
+}
+.mgb-10 {
+	margin-bottom: 10px;
+}
+/*********************************************************************
+SINGLE CONTRIBUTION
+***********************************************************************/
+.single-contribution{
+	margin-bottom:10px;
+}
+.contribution-thumb{
+	width:151px;
+	height:151px;
+	background:#FFF;
+	float:left;
+}
+.contribution-detail{
+	float:right;
+	width:442px;
+	float:right;	
+}
+.contribution-detail h2{
+	color:#d71400;
+	font-size:24px;
+	margin-bottom:10px;	
+}
+.contribution-detail ul li{
+	color:#FFF;
+	font-size:15px;
+	margin-bottom:10px;	
+}
+.contribution-detail ul li span{
+	display:inline-block;
+	vertical-align:top;
+	width:80px;
+}		
+.contribution-detail ul li span.about
+{
+	width:300px;
+}
+/*********************************************************************
+CONTACT-US
+***********************************************************************/
+.forms h2{
+	color:#d71400;	
+	font-size:24px;
+	margin-bottom:10px;
+}
+.forms ul li{
+	margin-bottom:10px;
+}
+.textfield , .textarea{
+	padding-left:10px;
+	border:none;
+	outline:none;
+	height:30px;
+	width:576px;
+	border-radius:5px;
+}
+.textarea{
+	resize:none;
+	width:574px;
+	height:116px;
+}
+.btns{
+	background:#d71400;
+	border:none;
+	color:#FFF;
+	padding:10px;
+	border-radius:5px;
+	font-size:18px;
+	margin:10px 0px;
+}
+/******************************************
+SUBSCRIPTION PAGE
+******************************************/
+.forms ul li{
+	color:#FFF;
+	font-size:16px;
+	display:block;
+}
+.forms ul li:nth-child(13) {
+	border-bottom: 1px solid #464451;
+}
+.forms ul li:nth-child(14) {
+	font-size: 12px;
+}
+/******************************************
+ADVERTISE PAGE
+******************************************/
+.page-info h3{
+	color:#FFF;
+	font-size:22px;
+}
+.advertise-tariff{
+	margin-bottom:10px;
+}
+.mgb-60{
+	margin-bottom:60px;
+}
+.advertise-tariff ul li{
+	font-size:16px;
+	color:#CCC;
+	margin-bottom:10px;
+}
+.advertise-tariff ul li span{
+		display:inline-block;
+		width:220px;
+		
+}
+.btns-2{
+	padding:10px 20px;
+	background:#af1e23;
+}
